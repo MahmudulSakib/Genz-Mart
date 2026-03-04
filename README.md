@@ -26,7 +26,7 @@
     npm run dev
 4.  Open `http://localhost:3000 & http://localhost:3001
 
-### Developed by Mahmudul Hasan Sakib & Yeasin Ahmed
+### Developed by Mahmudul Hasan Sakib & Mohammad Yeasin
 
 > [!IMPORTANT]
-> Entire Web App is Under Development
+> Entire Web Apmjp is Under Development
